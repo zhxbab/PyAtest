@@ -2,4 +2,4 @@
 hello = tf.constant('Hello, TensorFlow!')
 sess = tf.Session()
 print(sess.run(hello))
-pirnt("abc")
+print("abc")
